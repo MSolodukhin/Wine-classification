@@ -1,1 +1,1 @@
-print('Hello Python')
+A = [1, 2,0,4]
